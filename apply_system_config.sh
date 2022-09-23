@@ -1,0 +1,1 @@
+sudo nixos-rebuild switch -I  nixos-config=./nixos_system_config/configuration.nix

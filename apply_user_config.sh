@@ -1,0 +1,1 @@
+home-manager switch -f ./nixos_user_config/home.nix
